@@ -18,7 +18,7 @@ namespace GLink_API.Controllers
 
         public ProductController(IProductService productService)
         {
-            _productService = productService;
+            _productService = productService;//sagar
         }
 
         [HttpGet("GetProductList")]
