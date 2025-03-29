@@ -25,3 +25,5 @@
 /GLink_API/obj/Debug/net8.0/ref/GLink_API.dll
 /.vs
 /GLink_API/obj/GLink_API.csproj.nuget.g.props
+/GLink_API/obj/Debug/net8.0
+/.vs/GLink_API/DesignTimeBuild/.dtbcache.v2
